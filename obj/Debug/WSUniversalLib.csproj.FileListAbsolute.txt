@@ -1,0 +1,6 @@
+C:\Users\КурниковДЮ\source\repos\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\КурниковДЮ\source\repos\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\КурниковДЮ\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.csprojAssemblyReference.cache
+C:\Users\КурниковДЮ\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\КурниковДЮ\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\КурниковДЮ\source\repos\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
